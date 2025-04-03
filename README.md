@@ -4,7 +4,6 @@ I am an ambitious, diligent and motivated professional with extensive knowledge 
 Highly experienced in analyzing real-world data from the pharmaceutical and business sectors.
 Proficient with statistical and analytical tools and software with a strong ability to organize, coordinate and manage multiple tasks efficiently.
 Demonstrates excellent interpersonal skills, a disciplined work ethic, and a strong commitment to continuous professional development.
-
 ## **SKILLS**
 **●Core:** Machine learning, advanced statistics, data cleaning/processing, feature engineering, EDA
 
@@ -17,7 +16,6 @@ Demonstrates excellent interpersonal skills, a disciplined work ethic, and a str
 **●Data visualization:** matplotlib, seaborn, ggplot, plotly, Rshiny, excel
 
 **●Version control system:** Git, GitHub, GitLab
-
 ### **📫 How to reach me:**
 **Linkedin**: https://www.linkedin.com/in/christos-papagiannopoulos/
 
