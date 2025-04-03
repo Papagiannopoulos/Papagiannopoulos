@@ -23,3 +23,5 @@ Demonstrates excellent interpersonal skills, a disciplined work ethic, and a str
 **Linkedin**: https://www.linkedin.com/in/christos-papagiannopoulos/
 
 **Kaggle**: https://www.kaggle.com/cpapagiannopoulos
+
+**Google Scholar:** https://scholar.google.com/citations?user=hwbewOAAAAAJ&hl=el
