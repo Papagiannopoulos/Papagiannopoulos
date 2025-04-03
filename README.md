@@ -7,7 +7,7 @@ Proficient with statistical and analytical tools and software with a strong abil
 Demonstrates excellent interpersonal skills, a disciplined work ethic, and a strong commitment to continuous professional development.
 
 ## **SKILLS**
-**●Core:** Machine learning, advanced statistics, data cleaning/processing, feature engineering, EDA
+**●Core:** Machine learning, advanced statistics, data cleaning/processing, feature engineering, EDA \n /n
 **●Programing and scripting:** R, Python, SQL, bash scripts, Stata, C
 **●Data manipulation:** pandas, tidyverse (dplyr/tidyr), MySQL
 **●Machine learning:** scikit-learn, caret, e1071, lightgbm, xgboost, randomForest
