@@ -1,4 +1,4 @@
-# **Hi there 👋*
+# **Hi there 👋**
 
 ## **ABOUT ME**
 I am an ambitious, diligent and motivated professional with extensive knowledge in machine learning, statistics and programming.
