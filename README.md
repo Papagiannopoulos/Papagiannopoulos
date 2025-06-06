@@ -9,11 +9,13 @@ Demonstrates excellent interpersonal skills, a disciplined work ethic, and a str
 
 **●Programing and scripting:** R, Python, SQL, bash scripts, Stata, C
 
-**●Data manipulation:** pandas, tidyverse (dplyr/tidyr), MySQL
+**●Data manipulation:** pandas, regex, numpy, tidyverse, SQL
 
-**●Machine learning:** scikit-learn, caret, e1071, lightgbm, xgboost, randomForest
+**●Databases:** MySQL, postgress, MongoDB, APIs & Web Scraping
 
-**●Data visualization:** matplotlib, seaborn, ggplot, plotly, Rshiny, excel
+**●Machine learning:** scikit-learn, caret, e1071, randomForest, lightgbm, xgboost
+
+**●Data visualization:** Power BI, matplotlib, seaborn, ggplot, Rshiny, dash, plotly excel
 
 **●Version control system:** Git, GitHub, GitLab
 ### **📫 How to reach me:**
