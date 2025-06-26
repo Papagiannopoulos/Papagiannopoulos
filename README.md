@@ -4,7 +4,8 @@ I am Chris, a Data Scientist / Researcher.
 ## **About me**
 My background and experience focus on Machine Learning, Statistics and Programming and their application in industries such as Pharma, Public Health, Market and Business.
 
-## **SKILLS**
+
+## **Skills**
 - **Core:** Machine learning, advanced statistics, data cleaning/processing, feature engineering, EDA
 - **Programing and scripting:** R, Python, SQL, bash scripts, Stata, C
 - **Data manipulation:** pandas, regex, numpy, tidyverse, SQL
@@ -17,3 +18,5 @@ My background and experience focus on Machine Learning, Statistics and Programmi
 - **Linkedin**: https://www.linkedin.com/in/christos-papagiannopoulos/
 - **Kaggle**: https://www.kaggle.com/cpapagiannopoulos
 - **Google Scholar:** https://scholar.google.com/citations?user=hwbewOAAAAAJ&hl=el
+
+[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/christos-papagiannopoulos/)
