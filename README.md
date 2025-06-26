@@ -1,5 +1,5 @@
-# **Hi there 👋**
-I am Chris, a Data Scientist / Researcher. 
+## **Hi there 👋**
+I am Chris, a **Data Scientist / Researcher**.
 
 ## **About me**
 🧠 My background and experience focus on Machine Learning, Statistics and Programming and their application in industries such as Pharma, Public Health, Market and Business.  
@@ -7,14 +7,14 @@ I am Chris, a Data Scientist / Researcher.
 🎓 Currently pursuing a PhD on Molecular Epidemiology investigating potential prevalent molecular dysfunctions linked to carcinogenesis.
 
 ## **🛠️ Skills**
-- **Programing and scripting:** Python, R, SQL, bash scripts, Stata, C
+- **Programing and scripting:** Python, R, SQL, bash scripts, Stata, C, HTML
 - **Data manipulation:** pandas, regex, numpy, tidyverse, SQL
 - **Databases:** MySQL, postgress, MongoDB, APIs & Web Scraping
 - **Machine learning:** scikit-learn, caret, e1071, randomForest, lightgbm, xgboost
 - **Data visualization:** Power BI, matplotlib, seaborn, ggplot, Rshiny, dash, plotly, excel
 - **Version control system:** Git, GitHub, GitLab
 
-### **📫 How to reach me:**
+## **📫 How to reach me ⬇️⬇️**
 <a href="https://www.linkedin.com/in/christos-papagiannopoulos/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" />
 </a>
