@@ -25,6 +25,6 @@ My background and experience focus on Machine Learning, Statistics and Programmi
 <a href="https://scholar.google.com/citations?user=hwbewOAAAAAJ&hl=el" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="60" />
 </a>
-<a href="https://www.linkedin.com/in/christos-papagiannopoulos/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="60">
+<a href="https://www.kaggle.com/cpapagiannopoulos" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" alt="Kaggle" width="60">
 </a>
