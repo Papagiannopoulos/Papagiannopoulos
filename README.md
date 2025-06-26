@@ -2,16 +2,16 @@
 I am Chris, a Data Scientist / Researcher. 
 
 ## **About me**
-My background and experience focus on Machine Learning, Statistics and Programming and their application in industries such as Pharma, Public Health, Market and Business.
+🧠 My background and experience focus on Machine Learning, Statistics and Programming and their application in industries such as Pharma, Public Health, Market and Business.
+💻 I have >3 years of professional experience in building predictive models, automated data workflows, and delivering reports for decision-making.
+🎓 Currently pursuing a PhD on Molecular Epidemiology investigating potential prevalent molecular dysfunctions linked to carcinogenesis.
 
-
-## **Skills**
-- **Core:** Machine learning, advanced statistics, data cleaning/processing, feature engineering, EDA
-- **Programing and scripting:** R, Python, SQL, bash scripts, Stata, C
+## **🛠️ Skills**
+- **Programing and scripting:** Python, R, SQL, bash scripts, Stata, C
 - **Data manipulation:** pandas, regex, numpy, tidyverse, SQL
 - **Databases:** MySQL, postgress, MongoDB, APIs & Web Scraping
 - **Machine learning:** scikit-learn, caret, e1071, randomForest, lightgbm, xgboost
-- **Data visualization:** Power BI, matplotlib, seaborn, ggplot, Rshiny, dash, plotly excel
+- **Data visualization:** Power BI, matplotlib, seaborn, ggplot, Rshiny, dash, plotly, excel
 - **Version control system:** Git, GitHub, GitLab
 
 ### **📫 How to reach me:**
