@@ -20,7 +20,7 @@ My background and experience focus on Machine Learning, Statistics and Programmi
 - **Google Scholar:** https://scholar.google.com/citations?user=hwbewOAAAAAJ&hl=el
 
 <a href="https://www.linkedin.com/in/christos-papagiannopoulos/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="140" />
 </a>
 <a href="https://scholar.google.com/citations?user=hwbewOAAAAAJ&hl=el" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="60" />
