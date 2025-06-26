@@ -19,11 +19,11 @@ I am Chris, a **Data Scientist / Researcher**.
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" />
 </a>
 <a href="https://scholar.google.com/citations?user=hwbewOAAAAAJ&hl=el" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="40" />
 </a>
 <a href="https://www.kaggle.com/cpapagiannopoulos" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" alt="Kaggle" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" alt="Kaggle" width="60">
 </a>
 <a href="christospapajohn@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50">
 </a>
