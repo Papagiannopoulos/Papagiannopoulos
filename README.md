@@ -8,9 +8,10 @@ I am Chris, a **Data Scientist / Researcher**.
 
 ## **🛠️ Skills**
 - **Programing and scripting:** Python, R, SQL, bash scripts, Stata, C, HTML
-- **Data manipulation:** pandas, regex, numpy, tidyverse, SQL
+- **Data manipulation:** pandas, regex, numpy, tidyverse
 - **Databases:** MySQL, postgress, MongoDB, APIs & Web Scraping
-- **Machine learning:** scikit-learn, caret, e1071, randomForest, lightgbm, xgboost
+- **Machine learning:** scikit-learn, lightgbm, xgboost, caret, e1071
+- **Deep learning:** tensorflow, keras
 - **Data visualization:** Power BI, matplotlib, seaborn, ggplot, Rshiny, dash, plotly, excel
 - **Version control system:** Git, GitHub, GitLab
 
