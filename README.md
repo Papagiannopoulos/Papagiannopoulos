@@ -7,7 +7,7 @@ I am Chris, a **Data Scientist / Researcher**.
 🎓 Currently pursuing a PhD on Molecular Epidemiology investigating whether prevalent molecular dysfunctions linked to cancer incidence.
 
 ## **🛠️ Skills**
-- **Programing and scripting:** Python, R, SQL, bash scripts, Stata, C, HTML
+- **Programing and scripting:** Python, R, SQL, bash, Stata, C, HTML
 - **Data manipulation:** pandas, regex, numpy, tidyverse
 - **Databases:** MySQL, postgress, MongoDB, APIs & Web Scraping
 - **Machine learning:** scikit-learn, lightgbm, xgboost, caret, e1071
