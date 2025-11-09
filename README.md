@@ -12,6 +12,7 @@ I am Chris, a **Data Scientist / Researcher**.
 - **Databases:** MySQL, postgress, MongoDB, APIs & Web Scraping
 - **Machine learning:** scikit-learn, lightgbm, xgboost, caret, e1071
 - **Deep learning:** tensorflow, keras
+- **Cloud Computing:** Amazon Web Services
 - **Data visualization:** Power BI, matplotlib, seaborn, ggplot, Rshiny, dash, plotly, excel
 - **Version control system:** Git, GitHub, GitLab
 
