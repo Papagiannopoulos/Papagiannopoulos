@@ -1,5 +1,5 @@
 ## **Hi there 👋**
-I am Chris, a **Data Scientist / Researcher**.
+I am Chris, a **AI/ML Engineer / Data Scientist / Health Researcher**.
 
 ## **About me**
 🧠 My background and experience focus on Machine Learning, Statistics and Programming and their application in industries such as Pharma, Public Health, Market and Business.  
