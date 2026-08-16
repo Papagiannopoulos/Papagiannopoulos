@@ -1,10 +1,11 @@
 ## **Hi there 👋**
-I am Chris, a **AI/ML Engineer / Data Scientist / Health Researcher**.
+I am Christos Papagiannopoulos, MSc, PhD, an **AI/ML & Data Engineer / Health Researcher**.
 
 ## **About me**
-🧠 My background and experience focus on Machine Learning, Statistics and Programming and their application in industries such as Pharma, Public Health, Market and Business.  
-💻 I have >3 years of professional experience in building predictive models, automated data workflows, and delivering reports for decision-making.<br>
-🎓 Currently pursuing a PhD on Molecular Epidemiology investigating whether prevalent molecular dysfunctions linked to cancer incidence.
+🧠 My background and experience focus on Machine Learning, Programming and Cloud, and their application in industries such as Pharma, Public Health, Banking, Energy, and Academia.  
+💻 I have >3 years of professional experience in developing and implementing predictive models, building automated procedures, conducting research activities, and creating RAG systems with a strong ability to coordinate and manage multiple tasks efficiently.  
+🎓 I have authored scientific publications applying Machine Learning with a research portfolio in molecular and genetic epidemiology.  
+PhD in Molecular & Cancer Epidemiology investigating whether prevalent molecular dysfunctions linked to cancer incidence.
 
 ## **🛠️ Skills**
 - **Programing and scripting:** Python, R, SQL, bash, Stata, C, HTML
