@@ -3,7 +3,7 @@ I am Christos Papagiannopoulos, MSc, PhD, an **AI/ML & Data Engineer / Health Re
 
 ## **About me**
 🧠 My background and experience focus on Machine Learning, Programming and Cloud, and their application in industries such as Pharma, Public Health, Banking, Energy, and Academia.  
-💻 I have >3 years of professional experience in developing and implementing predictive models, building automated procedures, conducting research activities, and creating RAG systems with a strong ability to coordinate and manage multiple tasks efficiently.  
+💻 I have >3 years of professional experience in developing and deploying predictive models, RAG systems, and Azure-based AI and data architectures, with a strong ability to coordinate and manage multiple tasks efficiently.  
 🎓 I have authored scientific publications applying Machine Learning with a research portfolio in molecular and genetic epidemiology having PhD in Molecular & Cancer Epidemiology investigating whether prevalent molecular dysregulations linked to cancer incidence.
 
 ## **🛠️ Skills**
@@ -12,7 +12,8 @@ I am Christos Papagiannopoulos, MSc, PhD, an **AI/ML & Data Engineer / Health Re
 - **Databases:** MySQL, postgress, MongoDB, APIs & Web Scraping
 - **Machine learning:** scikit-learn, lightgbm, xgboost, caret, e1071
 - **Deep learning:** tensorflow, keras
-- **Cloud Computing:** Microsoft Azure
+- **Generative AI & Agentic Systems**: LLMs, RAG, MCP, Prompt Engineering, AI Evaluation Frameworks
+- **Cloud Computing:** Azure AI Search, Azure Functions, Azure Data Factory, Azure Blob Storage, Azure Document Intelligence, Azure DevOps, Azure AI Foundry, Azure OpenAI
 - **Data visualization:** Power BI, matplotlib, seaborn, ggplot, Rshiny, dash, plotly, excel
 - **Version control system:** Git, GitHub, GitLab
 
